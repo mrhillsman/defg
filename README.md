@@ -5,7 +5,7 @@ A simple, single-page web application to create `.desktop` files for Linux appli
 [**Live Demo Hosted on GitHub Pages**](https://mrhillsman.github.io/defg)  
 *(Replace `your-username` with your actual GitHub username)*
 
-![Screenshot of the Desktop File Generator](https://placehold.co/800x450/1e293b/ffffff?text=Desktop+File+Generator+UI)
+![Screenshot of the Desktop File Generator](https://github.com/user-attachments/assets/f24a1d29-45bc-434c-bf27-924444b09cc5)
 
 ## About This Project
 
@@ -13,7 +13,7 @@ This is a lightweight, client-side tool built with HTML and Tailwind CSS. It pro
 
 ### AI Genesis
 
-This entire application was generated through a conversation with Google's AI, **Gemini (1.5 Pro)**. The process was iterative, showcasing the collaborative potential between humans and AI for software development.
+This entire application was generated through a conversation with Google's AI, **Gemini (2.5 Pro)**. The process was iterative, showcasing the collaborative potential between humans and AI for software development.
 
 The development conversation included the following steps:
 
